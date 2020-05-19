@@ -1,0 +1,243 @@
+.card {
+  perspective: 150rem;
+  -moz-perspective: 150rem;
+  position: relative;
+  height: 42rem;
+}
+
+.card__side {
+  height: 42rem;
+  transition: all .8s ease;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  backface-visibility: hidden;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15); 
+}
+.card__side--front {
+  background-color: #fff;
+ }
+.card__side--back {
+  transform: rotateY(180deg);
+ }
+.card__side--back-1 {
+  background-image: linear-gradient(to right bottom,  $brand_primary, $brand_tertiary); 
+}
+.card__side--back-2 {
+  background-image: linear-gradient(to right bottom, $brand_primary, $brand_tertiary);
+ }
+.card__side--back-3 {
+  background-image: linear-gradient(to right bottom,  $brand_primary, $brand_tertiary); 
+}
+.card:hover .card__side--front {
+  transform: rotateY(-180deg); 
+}
+.card:hover .card__side--back {
+  transform: rotateY(0deg); }
+.card__picture {
+background-size: cover;
+height: 20rem;
+background-blend-mode: screen;
+-webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+}
+.card__picture--1 {
+  background-image: linear-gradient(to right bottom, $brand_primary, $brand_tertiary), url(../../img/banners/strategy.jpg); }
+.card__picture--2 {
+  background-image: linear-gradient(to right bottom, $brand_primary, $brand_tertiary), url(../../img/banners/software.jpg) }
+.card__picture--3 {
+  background-image: linear-gradient(to right bottom, $brand_primary, $brand_tertiary), url(../../img/banners/services.jpg); }
+  .card__heading {
+    font-size: 2.8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 8rem;
+    right: 5rem;
+    width: 75%;
+ }
+  .card__heading-span {
+    padding: 20rem 20rem;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone; }
+
+  .card__details {
+    padding: 3rem; }
+    .card__details p {
+      list-style: none;
+      width: 100%;
+      margin: 0 auto; }
+      .card__details ul li {
+        text-align: center;
+        font-size: 1.5rem;
+        padding: 1rem; }
+        .card__details ul li:not(:last-child) {
+          border-bottom: 2px solid #eee; }
+  .card__details__back {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    text-align: center; }
+  .card__box {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 4rem; }
+  .card__description {
+    // font-size: 1.4rem;
+    // font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase; }
+  .card__price-value {
+    font-size: 6rem;
+    font-weight: 100; }
+  @media (max-width: 56.25em) {
+    .card {
+      height: auto;
+      border-radius: 3px;
+      background-color: #fff;
+      box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15); }
+      .card__side {
+        height: auto;
+        position: relative;
+        box-shadow: none; }
+        .card__side--back {
+          transform: rotateY(0);
+          clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%); }
+      .card:hover .card__side--front {
+        transform: rotateY(0); }
+      .card__details {
+        padding: 1rem 3rem; }
+      .card__details__back {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: translate(0);
+        width: 100%;
+        padding: 7rem 4rem 4rem 4rem; }
+      .card__box {
+        margin-bottom: 3rem; }
+      .card__price-value {
+        font-size: 4rem; } 
+}
+@media only screen and (max-width: 374px) and (min-width: 320px) {
+  
+  .card-btn {
+    font-size: 9px;
+    margin-left: -24px;
+    
+  }
+}
+
+@media only screen and (max-width: 474px) and (min-width: 375px) {
+  /* line 137, ../sass/partials/_cards.scss */
+  .card-btn {
+    font-size: 9px;
+    margin-left: -2px;
+  }
+}
+
+@media only screen and (max-width: 374px) and (min-width: 320px) {
+  
+  .card-btn-2 {
+    font-size: 9px;
+    margin-left: -30px;
+    
+  }
+}
+
+@media only screen and (max-width: 474px) and (min-width: 375px) {
+  /* line 137, ../sass/partials/_cards.scss */
+  .card-btn-2 {
+    font-size: 9px;
+    margin-left: -2px;
+  }
+}
+@media only screen and (max-width: 374px) and (min-width: 320px) {
+  
+  .card-btn-3 {
+    font-size: 9px;
+    margin-left: -30px;
+    
+  }
+}
+
+@media only screen and (max-width: 474px) and (min-width: 375px) {
+
+  .card-btn-3 {
+    font-size: 9px;
+    margin-left: -2px;
+  }
+}
+
+        
+        
+        .u-center-text {
+          text-align: center !important; }
+
+
+          
+.heading-secondary {
+    font-size: 6rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: inline-block;
+    background-image: linear-gradient(to right, #83d8e7, #030f77);
+    -webkit-background-clip: text;
+    color: transparent;
+    letter-spacing: .2rem;
+    transition: all .2s;
+}
+
+.card-row:not(:last-child) {
+  margin-bottom: 8rem;
+}
+.card-row {
+  max-width: 114rem;
+  margin: 0 auto;
+
+  max-width: 114rem;
+  margin: 0 auto; }
+  .card-row.card-row:not(:last-child) {
+    margin-bottom: 8rem; }
+    @media (max-width: 56.25em) {
+      .card-row:not(:last-child) {
+        margin-bottom: 6rem; } }
+  @media (max-width: 56.25em) {
+    .card-row {
+      max-width: 50rem;
+      padding: 0 3rem; } }
+  .card-row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .card-row [class^="col-"] {
+    float: left; }
+    .card-row [class^="col-"]:not(:last-child) {
+      margin-right: 6rem; }
+      @media (max-width: 56.25em) {
+        .card-row [class^="col-"]:not(:last-child) {
+          margin-right: 0;
+          margin-bottom: 6rem; } }
+    @media (max-width: 56.25em) {
+      .card-row [class^="col-"] {
+        width: 100% !important; } }
+  .card-row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2); }
+  .card-row .col-1-of-3 {
+    width: calc((100% - 2 * 6rem) / 3); }
+  .card-row .col-2-of-3 {
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .card-row .col-1-of-4 {
+    width: calc((100%  - 3 *  6rem) / (4)); }
+  .card-row .col-2-of-4 {
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .card-row .col-3-of-4 {
+    width: calc(((100%  - 3 *  6rem) / 4) + (2 * ((100% - 3 * 6rem) / 4) + 2 * 6rem)); }

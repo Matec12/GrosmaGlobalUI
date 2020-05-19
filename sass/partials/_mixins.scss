@@ -1,0 +1,196 @@
+
+.v-align-children {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
+.v-align-children-column {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.disable-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+@media all and (max-width: 990px) {
+  .v-align-children {
+    display: block !important;
+  }
+}
+.v-align-transform {
+  position: relative;
+  transform: translate3d(0, -50%, 0);
+  -webkit-transform: translate3d(0, -50%, 0);
+  top: 50%;
+  z-index: 2;
+}
+.align-bottom {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+.align-top {
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+@mixin absCenter {
+  position: absolute;
+  top : 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin drop_transition_y {
+    visibility: hidden;
+    opacity: 0;
+    @include transform-origin(center);
+    @include transform(translateY(-15px));
+    @include transition(all .6s .1s cubic-bezier(.68, .34, .15, 1));
+}
+
+@mixin drop_transition_off {
+    visibility: visible;
+    opacity: 1;
+    @include transform(translateY(0));
+    @include transition(all .6s cubic-bezier(.68, .34, .15, 1));
+}
+
+
+// antialiasing mode font rendering
+@mixin font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin bx_s($bxs_type: border-box) {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@mixin box-shadow($bx_sha_config:0 0 4px, $bx_sha_color:lighten($color_grey_light, 6.725))  {
+    -webkit-box-shadow: $bx_sha_config $bx_sha_color;
+    -moz-box-shadow: $bx_sha_config $bx_sha_color;
+    -ms-box-shadow: $bx_sha_config $bx_sha_color;
+    -o-box-shadow: $bx_sha_config $bx_sha_color;
+    box-shadow: $bx_sha_config $bx_sha_color;
+}
+
+@mixin text_truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
+@mixin clearfix {
+    &:before,
+
+    &:after {
+        content: "";
+        display: table;
+    }
+
+    &:after {
+        clear: both;
+    }
+    *zoom: 1;
+}
+
+@mixin image_replacement {
+  /* image replacement properties */
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+@mixin transform($transforms) {
+	-webkit-transform: $transforms;
+	-moz-transform: $transforms;
+	-ms-transform: $transforms;
+	transform: $transforms;
+}
+
+// @mixin transform($transforms) {
+// 	-webkit-transform: $transforms;
+// 	-moz-transform: $transforms;
+// 	-ms-transform: $transforms;
+// 	transform: $transforms;
+// }
+
+@mixin transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex-wrap($wrap) {
+  -webkit-flex-wrap: $wrap;
+     -moz-flex-wrap: $wrap;
+      -ms-flex-wrap: $wrap;
+          flex-wrap: $wrap;
+}
+
+@mixin flex-direction($directon) {
+    -webkit-box-direction: $directon;
+    -webkit-box-orient: $directon;
+    -webkit-flex-direction: $directon;
+    -moz-flex-direction: $directon;
+    -ms-flex-direction: $directon;
+    flex-direction: $directon;
+}
+
+@mixin justify-content($justify) {
+-webkit-box-pack: $justify;
+    -ms-flex-pack: $justify;
+    -webkit-justify-content: $justify;
+    -moz-justify-content: $justify;
+    justify-content: $justify;
+}
+
+@mixin align-items($align) {
+    -webkit-box-align: $align;
+    -ms-flex-align: $align;
+    -webkit-align-items: $align;
+    -moz-align-items: $align;
+    align-items: $align;
+}

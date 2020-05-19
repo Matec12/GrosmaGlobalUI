@@ -1,0 +1,35 @@
+@charset "utf-8";
+$color_black: #000000;
+$color_white: #ffffff; // White
+$color_dark: #292929;
+$color_red: #e31d3b;
+
+$brand_primary: #0085b9; // sky blue
+$brand_secondary: #0986b8; // darker
+$brand_tertiary: #001d6b; // darker
+
+$brand_accent: #bc8a39; // Brand Orange
+$brand_inverse: #00a99d; // Brand Green
+$brand_black: #000536; // Dark Grey
+
+$primary_sat: #fcf8fa; 
+$off_white: #f5f5f5; // off White
+$color_text: #312a25; // text color
+
+$color_grey_dark: #757575;
+$color_grey_light: #c5c5c5;
+
+$border_grey: #d5d5d5;
+$border_grey_light: #e5e5e5;
+$border_grey_dark: #959595;
+$font_bold: 'Montserrat',
+
+'Myriad Pro', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font_regular: 'Montserrat',
+'Myriad Pro', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+//header height
+$header_height: 60px;
+// z-index
+$content-zindex: 1;
+$nav-zindex: 2;
+$header-zindex: 30;

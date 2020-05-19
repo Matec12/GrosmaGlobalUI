@@ -1,0 +1,3274 @@
+.asset-access-call-wrapper.mobile-device{display:none;}
+
+
+
+@media (min-width: 1200px){
+.menu-details.container {
+           width: 86%!important;
+        }
+}
+
+@media screen and (min-width: 1600px) {
+
+  .slider-text {
+    width: 43%;
+    position: absolute;
+    z-index: 999;
+    top: 32%;
+    left: 18%;
+}
+.hom-spk.col-md-3 {
+    width: 20%;
+}
+
+.asset-access-call-wrapper { right: 15%; }
+
+.service-menu .nav-tabs.nav-tabs {
+    margin-top: 8px;
+    margin-left: 37%;
+    border: 0px;
+    position: relative;
+}
+	/* Banner style */
+	.container.inside-banner-text { top: 30%; }
+}
+@media screen and (min-width: 1900px) {
+ section#block-views-banner-block {
+    height: 90vh!important;
+}
+  .service-menu .nav-tabs.nav-tabs {
+    margin-top: 8px;
+    margin-left: 37%;
+    border: 0px;
+    position: relative;
+}
+.service-menu ul.navbar-nav {
+    margin-left: 37%;
+}
+.awards_recognition_grid {
+    padding-top: 50px;
+    width: 42%;
+}
+
+
+}
+
+@media screen and (min-width: 1200px) {
+   /* Clients page styles */
+	.view-client-industries { width: 66.66666666666666%; }
+	
+}
+
+@media screen and (max-width: 1200px) {
+
+   /* Clients page styles */
+	.clients-per-industry { top: 5%; }
+	
+	.clients-per-industry.item-list ul li {
+		width: 50%;
+		float: left;
+	}
+	
+	.clients-per-industry h3 { height: auto; }
+
+	/* KB tag cloud */
+	.kb-tag-cloud { display: none; }
+	
+	/* Advanced search section style */
+	#views-exposed-form-knowledge-bank-views-kbfilter button[type="submit"] {
+		width: 20%;
+		margin: 10px 0;
+	}
+	
+	/* Other services style */
+	.Other-services h2 { font-size: 54px;line-height:55px; }
+	
+	/* Global presence slider style */
+	.carousel-inner>.item>img, 
+	.carousel-inner>.item>a>img { width: 100%; }
+}
+
+@media only screen and (max-width: 1300px) {
+	.awards_recognition_grid {
+		width: 70%;
+	}
+}
+
+@media only screen and (min-width: 980px) and (max-width: 1200px) {
+  
+
+  
+  /* Advanced search section style */
+  div#edit-type-wrapper { width: 100%; }
+  
+  #views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+		position: static;
+		float: none;
+		margin: 0;
+		padding: 0;
+  }
+
+}
+@media screen and (max-width: 1024px) {
+    .views-field.views-field-field-video video { display:none; }
+	 .views-field.views-field-field-video  video {
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+	
+	.vjs-controls-disabled .vjs-big-play-button, 
+	.vjs-has-started .vjs-big-play-button, 
+	.vjs-using-native-controls .vjs-big-play-button, 
+	.vjs-error .vjs-big-play-button { display: none !important; }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.col-lg-6.promotion-box-video2 img {
+    width: 100%;
+}
+
+// .promotion-gallery{
+//     height: 100px ;
+// }
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+    section .promotion-gallery .container .row{
+        height: 100px ;
+    }}
+.new-home-block {display:none;}	
+.new-popular-lead{display:none;}	
+.in-speaker-wrap{display:none;}
+	.thanky-awards button.slick-prev{left:0;}
+	.thanky-awards button.slick-next{right:0;}
+/* Contact Us css starts here*/	
+.new-form-tabs li {
+	 
+	
+}
+
+/* Contact us Css ends here*/
+	
+	#sliding-popup.sliding-popup-bottom {
+    background: #000;
+    height: 110px!important;
+}
+#sliding-popup .popup-content {
+    margin: 0 auto;
+    max-width: 95%;
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+}
+	 .views-field.views-field-field-video video {
+    min-width: 100%;
+    min-height: 100%;
+}
+	/* col-md-offset-2 spacing issue is resolved */
+	.col-md-offset-2 { margin: 0; }
+	.container.inside-banner-text {
+    top: 36%;
+}
+.app-button ul li {
+    list-style-type: none;
+    display: inline-block;
+    width: 46%;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.app-button {
+    margin-top: -11px;
+}
+.events-filters {
+ 
+    width: 93%;
+}
+	.custom-page-title { width: 100%; }
+
+.cardWrapper {
+    width: 300px;
+    height: 350px;
+    position: relative;
+  
+    float: left;
+    margin-right: 11px;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+.cardFace {
+    position: absolute;
+    width: 275px;
+    height: 350px;
+    overflow: hidden;
+    padding: 20px 20px;
+    color: #fff;
+    overflow: hidden;
+}
+
+/* Flip section */
+.flip-section .cardCont {
+	width: 32%;
+    margin-right: 10px;
+}
+
+.flip-section .cardCont.managed-services { margin-right: 0; }
+
+/*home page latest colletarl starts here*/
+  .itemcolletral {
+   height: 300px;
+    color: #fff;
+    font-size: 30px;
+    overflow: hidden;
+    margin: 10px;
+    width: 46%;
+    position: relative;
+ 
+    padding: 0;
+    float: left;
+}
+  
+.slider-text h2 {
+    padding-bottom: 17px;
+    font: 900 47px/50px 'Roboto', sans-serif;
+}
+
+
+/* Popular reads section */
+.banner-bottom .top-read { height: 96px; }
+
+.banner-bottom .popular-reads { width: 20%; }
+
+.banner-bottom .popular-reads .arrow {
+	width: 70%;
+    height: auto;
+    padding: 24px 20px;
+}
+
+.banner-bottom .tl-colletral {
+	padding: 10px 0 0;
+    width: 80%;
+}
+
+/* company page style */
+  .new-ceo-qoutes .seo-info .more-info-btn { width: 88%; } 
+
+/* Clients page styles */
+.middle-new-container { width: auto; }
+	
+	/* Global Locations styles */
+  .global-locations ul.tabs li { margin: 0; }
+  .new-qoute-box { margin-top: 63px; }
+  
+  /*#myCarousel .carousel-caption {  
+    top: 10%;    
+    width: 87%;
+  }*/
+  
+ /* Knowledge bank starts here*/
+ 
+ html#knowledge-bank-page .middle-new-container, 
+ #search-page .middle-new-container, 
+ #white-papers-page .middle-new-container, 
+ #research-reports-page .middle-new-container, 
+ #case-studies-page .middle-new-container, 
+ #webcasts-page .middle-new-container { margin-left: 0; }
+ .webcast-thank video {
+   min-height: 234px;
+}
+ .collateral-readmore { position: static; }
+ 
+ .kb-mind-blog .col-lg-4 {
+	width: 33%;
+    display: inline-block;
+	vertical-align: top;
+ }
+ 
+
+ 
+ div#edit-rec-tag-wrapper {
+    float: left;
+    width: 30%;
+    margin-left: 7%;
+}
+.kb-collateral-wrap .new-border-box {
+    position: relative;
+    margin-bottom: 27px;
+    min-height: 450px;
+}
+div#edit-type-wrapper {
+    float: left;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+ 
+/* label.option {
+    background-color: #333;
+    display: block;
+    width: 95px;
+    text-align: center;
+    padding: 7px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}*/
+.asset-access-call-wrapper {
+    position: relative;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 54px;
+    border: 0px;
+}
+/*#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+    margin-top: -37px;
+    margin-right: 0;
+    position: absolute;
+    top: 23px;
+    right: -27px;
+}*/
+.call-icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 0;
+    background-image: url(../images/download-btn.png);
+    background-repeat: no-repeat;
+    right: 0;
+}
+
+.logged-in .asset-access-call-wrapper {
+    position: absolute;
+    right: 13%;
+    top: 10%;
+    z-index: 1;
+    border: 2px solid #d5d5d5;
+    width: 10%;
+}
+
+.asset-image img {
+    display: none;
+}
+
+/* Assets pages starts here*/
+
+.inside-banner-text h2 {
+    padding-bottom: 17px;
+    font: 900 47px/44px 'Roboto', sans-serif;
+    text-shadow: 4px 2px 6px rgba(0, 0, 0, 0.2);
+}
+/* events pages starts here*/
+
+.view-id-events .col-lg-4 {
+    /* background: #eee; */
+    width: 30%;
+    margin: 6px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 2px 0px rgba(197, 197, 197, 0.89); */
+    background-color: white;
+    padding: 0px;
+    float: left;
+}
+
+/* Leadership  pages*/
+
+.lead-wrap {
+    margin: 25px 8px;
+    min-height: 330px;
+    padding: 0;
+ 
+    width: 30%;
+    overflow: hidden;
+    /* padding: 0px; */
+}
+.global-industry .industry-icons-det h5 {
+    font-size: 12px;
+    line-height: 16px;
+}
+ 
+/* grosma Offerings section */
+.service-links .row { 
+	padding: 0 0 0 12px;
+	margin: 0;
+}
+
+.Other-services a { font-size: 13px; }
+
+#share a {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    margin: 0px;
+    font-size: 24px;
+    color: #fff;
+    opacity: 1;
+    transition: opacity 0.15s linear;
+    padding-left: 6px;
+    transition: all 0.2s ease;
+}
+
+/* News section styles */
+  .image-bg .feature.boxed {
+    width: 46%;
+    margin: 15px;
+    background: rgba(0, 102, 153, 0.6) !important;
+  }
+
+  .grosma-pet h2 {
+    font-size: 33px;
+    letter-spacing: 0px;
+	margin-bottom: 10px;
+  }
+
+}
+
+
+@media only screen and (min-width: 980px) and (max-width: 1150px) {
+
+  
+  /* Heading styles */
+  .grosma-mainhead { font-size: 60px; }
+  
+  /* Home Page Slogan styles */
+  .slogan h1 {
+    padding: 0;
+	margin: 32px 0 0;
+	font: 900 65px/69px 'Roboto', sans-serif;
+  }
+    
+  h3.new-subhead {
+    /*width: 55%;*/
+    padding-top: 10px;
+    /*position: relative;
+    top: -71px;
+    right: -50%;*/
+    font-size: 16px;
+    line-height: 21px;
+  }
+  
+  /* Home Page Flip Box styles */
+  .cardFront, 
+  .cardBack {
+    width: 100%;
+    height: 350px;
+    padding: 20px;
+    position: absolute;
+  }
+  
+  /* colletral thumbnail styles */
+  .colletral-type { margin-left: 70%; }
+  
+  
+  /* Offering icon menu starts here*/
+  .offer-icon-wrap {
+    height: 120px;
+    padding: 20px;
+    margin-bottom: 30px;
+    /* margin-left: 15px; */
+    width: 24%;
+}
+  
+}
+
+
+@media only screen and (max-width: 991px) {
+
+  /* Heading styles */
+  .aside-brouchure {
+    width: 50%;
+    margin: 0 auto;
+  }
+  /* Home page knowledge bank */
+  
+  .itemcolletral {
+    height: 300px;
+    color: #fff;
+    font-size: 30px;
+    overflow: hidden;
+    margin: 10px;
+    width: 70%;
+    position: relative;
+ 
+    padding: 0;
+    float: left;
+    margin: 15px 14%;
+}
+
+.asset-image img { display: none; }
+
+.asset-access-call-wrapper {
+    position: relative;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 54px;
+    border: 0px;
+}
+
+.call-icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 0;
+    background-image: url(../images/download-btn.png);
+    background-repeat: no-repeat;
+    right: 0;
+}
+
+ 
+ 
+/* Custom form styling */ 
+.new-contactus-icon-div {
+	overflow: auto;
+    margin-top: 30px;
+}
+
+.new-contactus-icon-div .contact-us-content { text-align: center; }
+  
+  /* company page style */
+  .new-ceo-qoutes .seo-info {
+	  width: 25%;
+	  margin-top: 0;
+	  display: inline-block;
+  }
+  
+  .new-ceo-qoutes .seo-info .more-info-btn { width: 85%; } 
+  
+  .new-ceo-qoutes .col-md-9 {
+	width: 70%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  /* Global insudtry section */
+  .global-industry .col-sm-4 {
+	  width: 33%;
+	  margin: 0 auto;
+  }
+  
+  /* Popular reads section */
+ 
+  
+  /* Awards page styles */
+  .views-bootstrap-grid-plugin-style .col-lg-2 {
+    width: 45%;
+    margin: 0 auto;
+    display: inline-block;
+  }
+  
+  .awards-wrap .col-md-8 {
+	padding: 0;
+	margin-top: 15px;
+  }
+	
+  .views-bootstrap-grid-plugin-style .col-lg-2 .img-responsive { margin: 0 auto; }
+  
+  /* Offering icons styles */
+  /* .field-items,
+  .grosma-mainhead{ margin-left: 20px; } */
+	
+  .custom-accordion {
+    width: 100%;
+    float: none;
+  }
+	
+  .offer-icon-wrap {
+    width: 31%;
+	height: auto;
+    padding: 20px;
+    margin-bottom: 30px;
+    float: left;
+  }
+.offering-icon {
+    width: 45px;
+    margin: 0 auto;
+}
+  .offer-icon-wrap { margin-left: 0; }
+	.offering-title {
+ 
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+}
+.offering-title {
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+}
+  .aside-bar-left,
+  .aside-bar-right {
+    width: 50%;
+    margin: 20px auto;
+    float: none;
+  }
+	
+  .aside-bar-left p,
+  .aside-bar-right p { margin-bottom: 15px; }
+	
+  .aside-bar-left a, 
+  .aside-bar-right a { float: none; }
+  
+  /* Right side bar accordion */
+  .grosma-sidebar { 
+		margin: 10px 0; 
+		width: 100%;
+	}
+  
+  .grosma-sidebar.sd-close {
+		width: 100%;
+		margin: 40px 0;
+		float: none;
+	}
+  
+  /* Email-us section styles */
+  .email-us-listing .email-icons img { width: 150px; }
+  
+  .email-us-listing .email-content { margin-top: 20px; }
+  
+  .email-us-listing .email-content strong { 
+	display: block;
+	font-size: 24px;
+    line-height: 30px;
+   }
+   
+   .email-us-listing .email-content a {
+		display: block;
+		font-size: 20px;
+		line-height: 28px;
+   }
+  .homepage-awds .view-content {
+    margin-top: 20px;
+}
+  /* Global Locations styles */
+  .global-locations ul.tabs li { margin: 0 20px; }
+  
+  /* Knowledge bank*/
+  .kb-tag-cloud{display:none;}
+  
+  .view-knowledge-bank-views .views-row:hover img { transform: none; }
+  
+  /* events pages starts here*/
+  .view-id-events .col-lg-4 {
+    /* background: #eee; */
+    width: 30%;
+    margin: 6px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 2px 0px rgba(197, 197, 197, 0.89); */
+    background-color: white;
+    padding: 0px;
+    float: left;
+}
+  /* Core-values*/
+  
+    .core-values-content { margin: 0 10px; }
+  
+  .core-values-img { 
+    width: 30%;
+    margin-top: 20px;
+  }
+
+
+/* Culture page*/
+
+.cul-box {
+    height: 102px;
+    margin: 9px;
+    width: 47%;
+    position: relative;
+    float: left;
+}
+/* Global presence*/
+
+#global-presence-page .glb-ser .col-md-4 {
+	width: 33%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.grosma-spotlight .block-title {
+    /*margin: 15px auto;
+    background: #006699;
+    color: #fff;
+    width: 39%;
+    text-align: center;
+    font-size: 30px!important;
+    padding: 0px;*/
+}
+
+.spotlight-content-wrapper .spot-image-wrapper {
+    margin: 0;
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.spotlight-content-wrapper .spotlight-content {
+	display: inline-block;
+    width: 59%;
+    vertical-align: top;
+}
+
+/* Clients page styling */
+.clients-per-industry { 
+	top: 5%; 
+	width: 80%;
+	left: 10%;
+	overflow-y: scroll;
+}
+
+/* Women page style */
+#women-page  .programs-for-women .list li,
+#women-page .ideas-section .col-md-6 {
+	width: 48%;
+    display: inline-block;
+    vertical-align: top;
+} 
+
+/* .ideas-section .content-section .block-title { margin-top: 20px; } */
+
+#company-page .grosma-feature-block .grosma-main-head,
+#company-page .grosma-feature-block .reset-padding-left > p { margin-left: 15px; }
+
+/* Mission vission page */
+#mission-vision-page .vission-section .list li {
+	width: 33%;
+    display: inline-block;
+	vertical-align: top;
+}
+
+.box-border{margin-bottom:25px;}
+.similar-tags{height:40px;}
+ 
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.new-desktop {
+    display: none;
+}
+	
+	.col-lg-6.promotion-box-video2 img {
+    width: 100%;
+}
+	.left-corona-block {
+    display: none;
+}
+	.new-home-block {display:none;}	
+.in-speaker-wrap{display:none;}
+.thanky-awards button.slick-prev{left:0;}
+.thanky-awards button.slick-next{right:0;}
+.soft-ser ul li span img {
+    float: left;
+}
+.soft-ser ul li a {
+    margin-bottom: 30px;
+    display: block;
+    width: 100%;
+    float: left;
+}
+.new-form-tabs li {
+	width: 24%;
+	float: left;
+	display: inline-block;
+	/* vertical-align: top; */
+	border-bottom: 0;
+	clear:unset;
+}
+	
+.global-locations ul.tabs li {
+    margin: 0 20px;
+    width: 118px;
+}	
+/* cookie policy*/
+#sliding-popup .popup-content #popup-buttons {
+    float: left;
+    margin: 0 0 1em 0;
+    max-width: 40%;
+}
+#sliding-popup.sliding-popup-bottom {
+    background: #000;
+    height: 162px !important;
+    padding-top: 10px;
+}
+/*ends*/
+ ul.col-md-3.section-head {
+    margin-left: 0px;
+    width: 45%;
+    float: left;
+}
+.col-md-12.asset-row {
+    padding-left: 20px;
+}
+.cardWrapper {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    /* background-color: #333; */
+    float: none;
+    margin-right: 10px;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+/* Clients page styling */
+.clients-per-industry.item-list ul { margin-left: 10px; }
+
+.clients-per-industry.item-list ul li {
+	width: 50%;
+	float: left;
+}
+
+/* Flip section */
+.flip-section .cardCont {
+	width: 32%;
+    margin-right: 10px;
+}
+
+.flip-section .cardCont.managed-services { margin-right: 0; }
+
+.flip-section .inner.tw-box { margin-top: 0; }
+
+/* Knowledge bank*/
+.kb-right-blck .kb-collateral-wrap {
+    margin-bottom: 25px;
+    position: relative;
+    min-height: 283px;
+    width: 45%;
+    float: left;
+    margin-right: 25px;
+}
+
+.kb-collateral-list .kb-collateral-wrap {
+    padding: 0px;
+    margin-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+.kb-collateral-wrap .new-border-box {
+    position: relative;
+    margin-bottom: 27px;
+    min-height: 410px;
+}
+
+.kb-mind-blog .col-lg-4 {
+	width: 33%;
+    display: inline-block;
+	vertical-align: top;
+ }
+.kb-collateral-list {
+    margin-top: 0px;
+    border-top: 1px dotted #292929;
+    clear: both !important;
+    padding: 24px;
+}
+
+/* Contact-us page */
+#contact-us-page .generic-contact-us-forms .g-recaptcha > div { margin: 0 0 0 15px; }
+
+#contact-us-page .webform-client-form-wrapper button.webform-submit { float: none; }
+
+/* Leadership page */
+.lead-wrap {
+    margin: 25px 8px;
+    min-height: 300px;
+    padding: 0;
+ 
+    width: 30%;
+    overflow: hidden;
+    /* padding: 0px; */
+    float: left;
+}
+
+.awards_recognition_grid {
+    width: 80%;
+}
+.awards_recognition_grid ul li {
+    min-height: 134px;
+}
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+	.left-corona-block {
+    display: none;
+}
+	.form-btn.pull-right, form-sec .pull-right {
+    clear: both;
+    float: none !important;
+}
+  /* Heading styles */
+  .grosma-mainhead{ font-size: 50px; }
+	
+  .title-intro {
+    padding: 0px 12px;
+    border-left: 0;
+  }
+  
+  /* Vertical carousel styles */
+  .slider-text {
+    width: 73%;
+    position: absolute;
+    z-index: 999;
+    top: 24%;
+    left: 10%;
+  }
+  
+  /* Popular reads styles */
+  .top-read { display:none; }
+  
+  /* Home Page Slogan styles */
+  .slogan h1 {
+    padding: 0;
+    margin: 60px 0 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 65px;
+    line-height: 68px;
+  }
+	
+  h3.new-subhead {
+    /*width: 71%;*/
+    padding-top: 10px;
+    position: relative;
+    top: 0;
+    right: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+  }
+  
+.asset-access-call-wrapper {
+    /* position: absolute;
+    right: 2%;
+    top: 18%;
+    z-index: 1;
+    width: 175px;
+    height: 54px;
+    border: 0px; */
+}
+.asset-image img {
+    visibility: hidden;
+}
+  /* Colletral thumbnail styles */
+  h3.colletral-title { 
+    font-size: 11px;     
+    line-height: 21px;
+  }
+    
+  .colletral-type { margin-left: 72%; }
+	
+  .industry-icons-det .feature-1 { height: 130px; }
+  
+  /* News section styles */
+//   .image-bg .feature.boxed { width: 96%; }
+
+
+  
+  /* Testimonial styles */
+
+  
+ 
+/* Knowledge bank page search*/
+div#edit-rec-tag-wrapper {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    margin-left: 0px;
+	padding: 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-item-rec-tag.form-type-select { 
+	width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 15px 0 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-control { 
+	height: auto; 
+	padding: 5px 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+    position: static;
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter button[type="submit"] { width: 100%; }
+
+div#edit-rec-tag-wrapper > label {
+    float: left;
+    width: 11%;
+}
+
+div#edit-type-wrapper {
+    float: left;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+label.option {
+    background-color: #333;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 3px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+div#edit-type-wrapper>label { float: none; }
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-type-bef-checkbox {
+    float: none;
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+    margin: 0 8px 0 0;
+}
+/* Events pages starts here*/
+  .view-id-events .col-lg-4 {
+    /* background: #eee; */
+    width: 30%;
+    margin: 6px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 2px 0px rgba(197, 197, 197, 0.89); */
+    background-color: white;
+    padding: 0px;
+    float: left;
+}
+
+/*.events-filters #edit-type-1-wrapper {
+    width: 30%;
+}*/
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) {
+	 
+  
+  /* Home Page Flip Box styles */
+  
+  
+  /* Events page starts here*/
+  .view-id-events .col-lg-4 {
+    /* background: #eee; */
+  
+}
+
+/* hide mobile banner for desktop */
+#block-views-banner-home-mobile-banner { display: none; }
+
+  
+}
+
+
+@media only screen and (max-width: 767px) {
+	.new-mobile-block {
+    display: block;
+}
+.new-desktop {
+    display: none;
+}
+	.col-lg-6.promotion-box-video2 img {
+    width: 100%;
+}
+.left-corona-block {
+    display: none;
+}	
+	.home-video-pop .modal-dialog {
+    width: 100%;
+    margin: 0 auto;
+}
+	.new-home-block {display: block;
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 114px;
+    background: #292929;
+    border-radius: 0px;
+    border: 0px;}	
+	
+/* form login block css start */
+.form-login-block{
+    width: 100%;
+}
+/* form login block css start */
+
+/* scroll advertise css start */
+.add_block img{width:100%;}
+/* scroll advertise css end */
+	#slick-views-company-1-slider .slick-slide img {
+    padding: 7px;
+	}
+	.privacy-links {
+		margin-top: 25px;
+	}
+	.soft-ser ul li:last-child {
+		padding-bottom: 0;
+	}
+	.soft-ser ul li a {
+		display: block;
+	}
+	.related-papers-thankyou .kb-collateral-wrap.col-md-4 {
+		width: 48%;
+		float: left;
+	}
+	.new-contactus-icon-div .cont-title-1 {
+    font-size: 17px;
+    margin-top: 20px;
+    border: 2px solid #1e9dc6;
+    padding: 9px 22px;
+    margin-bottom: 20px;
+    width: 79%;
+    text-align: center;
+    border-radius: 5px;
+}
+	
+.new-contactus-icon-div > .col-md-12 {
+    width: 48%;
+    text-align: center;
+    margin: 0 auto;
+}
+	
+#realated-insight-blogs li {
+    padding: 0;
+    width: 100%;
+    clear: both;
+	    margin-bottom: 15px;
+}
+
+#realated-insight-blogs .views-field-title {
+ 
+    width: 100%;
+}
+.grosma-pet h2 {
+    letter-spacing: -2px;
+    font-size: 44px;
+}
+#sliding-popup .popup-content #popup-buttons {
+    float: left;
+    margin: 0 0 1em;
+    max-width: 100%;
+}
+#sliding-popup.sliding-popup-bottom {
+    background: #000;
+    height: 119px !important;
+    padding-top: 10px;
+} 
+#sliding-popup .popup-content #popup-text {
+    color: #fff;
+    float: left;
+    font-weight: normal;
+    margin: 5px 0 0;
+    max-width: 100%!important;
+    font-family: "Open Sans", Arial, sans-serif !important;
+}
+#sliding-popup .popup-content #popup-text {
+    color: #fff;
+    float: left;
+    font-weight: normal;
+    margin: 5px 0 0;
+    max-width: 100%;
+    font-family: "Open Sans", Arial, sans-serif !important;
+}
+ .col-md-12.asset-row {
+    padding-left: 20px;
+}
+	.events-filters {
+ 
+    width: 93%;
+}
+	  /* Women page style */
+.vp-quotes-section .col-xs-4 { padding: 0 5px; }
+
+h1.big-title {    
+    margin: 30px 0 20px 15px;   
+}
+html#knowledge-bank-page .middle-new-container, #search-page .middle-new-container, #white-papers-page .middle-new-container, #research-reports-page .middle-new-container, #case-studies-page .middle-new-container, #webcasts-page .middle-new-container {
+    padding: 20px;
+}
+#knowledge-bank-page h1.grosma-font {
+    margin-left: 20px;
+}
+.service-links {
+    padding-left: 25px;
+}
+#index-page h1.big-title { margin-left: 0;margin-top: 20px;}
+
+.middle-new-container { padding: 0; }
+
+/* Flip section */
+section.flip-section { margin-bottom: 20px; }
+
+.flip-section .cardCont {
+	float: none;
+	margin: 0 auto 20px;
+}
+.kb-collateral-list img{ width:100%;}
+/* Sitemap page style starts here */
+#site-map .content > .site-map-menu { padding-left: 0; }
+
+	#site-map .content > .site-map-menu > li { 
+		margin-right: 0;
+		display: block;
+		margin: 20px auto 0;
+		width: 100%;
+	}
+
+	#site-map .content > .site-map-menu > li:nth-of-type(4),
+	#site-map .content > .site-map-menu > li:nth-of-type(5),
+	#site-map .content > .site-map-menu > li:last-child { margin-top: 20px; }
+
+
+/* Search page style */
+	.results-text-right {
+		float: none;
+		display: block;
+	}
+
+	#search-form-wrapper {
+		width: 80%;
+		top: 20%;
+		left: 10%;
+	}
+
+	#search-form-wrapper #search-form .form-type-textfield { margin-bottom: 0; }
+
+	#search-form .advanced-search-wrapper {
+		position: static;
+		width: 100%;
+		text-align: center;
+		border: 0px solid #000;
+		font: 900 15px/11px Roboto;
+	}
+
+	/* Spacing for devices */
+	.row { 
+		margin-right: 0;
+		margin-left: 0;
+	}
+	.new-common-form-wrap {
+    margin-top: 0;
+    margin-bottom: 70px;
+}
+	.container { 
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	
+  /*Colletral home page */
+	.itemcolletral {
+		width: 100%;
+		margin-bottom:20px;
+	}
+	.itemcolletral {
+    height: 364px;}
+	
+	
+	.social-share { margin-top: 10px; }
+	
+	/* Banner styles */
+	#block-views-banner-home-mobile-banner { height: 65vh; }
+	
+	/* Global insudtry section */
+  .global-industry .col-sm-4 { 
+	width: 49%; 
+	display: inline-block;
+  }
+	
+	/* scroll-navbar style */
+	#scroll-navbar { 
+		background: transparent; 
+		border-bottom: none;
+		top: 80px !important;
+		box-shadow: none;
+	}
+	
+	#scroll-navbar div.container:first-of-type { background: #28cae3; }
+	
+	#scroll-navbar .section-head { display: none !important; }
+	
+	#scroll-navbar select { background: none; } 
+	
+	/* Jump or Read more button */
+	.industries .feature.bordered .lead-jump-btn,
+	p.read-more-btn { bottom: 0; }
+	
+	.bounce { display: none; }
+	
+	/* Clients page styles */
+	
+	.clients-video-wrap .cont-title-1 {
+    font-size: 30px;
+    margin-left: 20px;
+}
+	.clients-per-industry {
+		width: 100%;
+		top: 0;
+		left: 0;
+		height: 100vh;
+		overflow-y: scroll;
+	}
+	
+	.fixed-background {
+		overflow: hidden;
+	}
+	
+ .view-client-industries {
+    overflow: auto;
+    margin: 0 auto;
+    padding: 30px 15px;
+}
+
+ul#views-slideshow-bxslider-images-1 { padding: 0 15px; }
+  /* Heading styles */
+  .grosma-mainhead{ 
+	font-size: 50px; 
+	margin: 0;
+  }
+	
+  .title-intro {
+    padding: 0 12px;
+    border-left: 0;
+  }
+  
+  .new-typo-description {
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.new-typo { padding: 0; }
+ 
+  /* Vertical carousel styles */
+  .navbar-custom { height: 80px; }
+
+  .desktop-banner { display: none; }
+	
+  .mobile-banner {
+    width: 100%;
+    min-height: 612px;
+  }
+
+  .mobile-fill {
+    width: 100%;
+    /*height: 359px;*/
+	padding-bottom: 56%;
+	background-size: cover;
+    background-repeat: no-repeat;
+  }  
+	
+  .slick .slider-text {
+    width: 100%;
+    padding: 27px;
+	box-sizing: border-box;
+    position: static;
+    
+  }
+
+  .slick .slider-text h2 {
+ 
+   padding-bottom: 10px;
+    font-size: 21px;
+    line-height: 26px;
+  }
+  .slider-text h3{    line-height: 22px;
+    font-size: 12px;}
+a.colletrals-btn {
+ background: #006699;
+    padding: 5px 10px;
+    font-size: 13px;
+}
+
+ #block-views-banner-home-mobile-banner .home-btn-wrapper {
+    margin-top: 10px;
+}
+  .slick .slider-text h2,
+  .slick .slider-text h3,
+  .slick .slider-text a { color: #fff;line-height: 24px; }
+ /*.slick__slide .slider-text h3{ display:none;} */
+  .slick-prev, 
+  .slick-next {
+    position: absolute;
+    top: 50%;
+  }
+  
+  .slick-prev, 
+  .slick-next { display: none !important; }
+  
+  .view-id-banner:hover .slick-prev, 
+  .view-id-banner:hover .slick-next { display: block !important; }
+  
+  /* company page styling */
+  .new-ceo-qoutes .seo-info {
+	  display: block;
+	  margin: 0 auto;
+	  width: 100%;
+  }
+  
+  .seo-info img {
+	width: 220px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .new-ceo-qoutes .seo-info .more-info-btn {
+	width: 220px;
+    margin: 0 auto;
+    position: static;
+  }
+  
+  .new-ceo-qoutes .col-md-9 { width: 100%; }
+  
+  /* Popular reads styles */
+  .top-read { display: none; } 
+  
+  /* Home Page Slogan styles */
+  .slogan h1 {
+    padding: 0;
+    margin: 60px 0 0;
+    font-size: 54px;
+    line-height: 55px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h3.new-subhead {
+    width: 100%;
+    padding-top: 10px;
+    position: relative;
+    top: 0;
+    right: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  /* Home Page Flip Box styles */
+	.cardWrapper {
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+ 
+  /* Colletral thumbnail styles */
+  .itemcolletral { margin: 0; } 
+	
+  .colletral-type { margin-left: 0%; } 
+    
+  h3.colletral-title { 
+    font-size: 13px;
+    line-height: 19px;
+  }
+
+  .colletral-thumb { margin-bottom: 69px; }
+
+  .colletral-thumb img { margin: 0 auto; }
+  
+  /* News section styles */
+  .image-bg .feature.boxed { 
+	width: 100%;
+	margin: 20px 0;
+  }
+  
+  /* Testimonial styles */
+
+span.qt-title {
+           margin-left: 0%;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 24px;
+}
+  /* Offering icons styles */
+.offerings-1 > div > ul > li {
+	display: inline-block;
+    vertical-align: top;
+    width: 30%;
+}
+
+.offer-icon-wrap {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    /* margin-bottom: 20px; */
+    /* margin-left: 0; */
+    float: none;
+    margin: 0 auto;
+}
+.offering-title {
+   margin-top: 10px;
+    color: #000;
+    font: 400 14px/20px 'Roboto', sans-serif;
+    text-align: center;
+}
+
+ .offering-icon {
+    width: 45px;
+    margin: 0 auto;
+	height: auto;
+}
+
+  h1.big-title,
+  .testimonial-slider h2,
+  .grosma-main-head,
+  .footer-contact-us h2 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+.inside-banner-text h2 {
+    padding-bottom: 17px;
+    font: 900 40px/45px 'Roboto', sans-serif;
+    text-shadow: 4px 2px 6px rgba(0, 0, 0, 0.2);
+}
+.node-type-whitepapers .inside-banner-text .col-md-6, .node-type-webcasts .inside-banner-text .col-md-6, .node-type-research-report .inside-banner-text .col-md-6, .node-type-case-study .inside-banner-text .col-md-6 {
+    width: 64%;
+}
+.node-type-whitepapers .inside-banner-text h2, .node-type-research-report .inside-banner-text h2, .node-type-case-study .inside-banner-text h2, .node-type-webcasts .inside-banner-text h2 {
+    font-family: roboto;
+    font-size: 16px;
+    line-height: 28px;
+}
+.container.inside-banner-text {
+    top: 20%;
+}
+  h3.offerings-title:after { width: 100%; }
+  
+  #contact-us-page .generic-contact-us-forms .g-recaptcha > div {
+	width: 305px !important;
+    margin: 0 0 15px 15px;
+  }
+  
+  .contact-us-wrapper .webform-client-form-wrapper button.webform-submit { 
+	width: 305px; 
+	margin: 0;
+	float: none;
+  }
+  
+  /* Culture page css starts here*/
+
+.cul-box {
+    height: 102px;
+    margin: 9px;
+    width: 95%;
+    position: relative;
+    float: left;
+}
+  
+  /* Global Locations styles */
+  .custom-map-functionality { padding: 20px 10px; }
+
+.global-locations ul.tabs li {
+    width: 120px;
+    margin: 0;
+    padding: 0;
+}
+  
+  /* .global-locations ul.tabs li.active .tab-title:after { display: none; } */
+  
+  .global-locations ul.tabs li.active .tab_last .tab-title:after { display: block; }
+  
+  .global-locations ul.tabs li.tab_last .tab-title:after { display: block; }
+  
+  
+  /* Knowledge bank section */
+  .view-knowledge-bank-views { padding-top: 20px; }
+  
+  .kbfilter-exposed { margin: 0 10px; }
+  
+  .kb-collateral-wrap .views-field-title { margin-bottom: 5px; }
+  
+  .kb-collateral-list .kb-collateral-wrap { margin-top: 0; }
+  .kb-collateral-list .kb-collateral-wrap {
+    margin-top: 0;
+    width: 48%;
+    float: left;
+    margin-left: 10px;
+}
+  .kb-collateral-list .kb-collateral-wrap .new-border-box,
+  .kb-mind-blog,
+  .view-knowledge-bank-views .col-lg-4,
+  .kb-right-blck  {
+	  padding-right: 0;
+	  padding-left: 0;
+  }
+  
+  .kb-mind-blog .col-lg-4 {
+	  height: auto;
+	  margin-bottom: 20px;
+  }
+ 
+  
+.node-type-whitepapers .inside-banner-text h1, .node-type-research-report .inside-banner-text h1, .node-type-case-study .inside-banner-text h1, .node-type-webcasts .inside-banner-text h1 {
+       font-family: roboto;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+
+
+
+html#thank-you-page .inside-banner-text h1 {
+   font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    text-shadow: 1px 1px 4px #000;
+}
+  .asset-access-call-wrapper {
+    /* position: absolute;
+    right: 93px;
+    top: 10%;
+    z-index: 1;
+    border: 0px; */
+	position: relative;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: auto;
+    border: 0px;
+}
+
+.call-icon {
+	width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 0;
+    background-image: url(../images/download-btn.png);
+    background-repeat: no-repeat;
+    right: 0;
+}
+
+.asset-image img {
+    visibility: hidden;
+}
+
+#realated-insight .grosma-mainhead{
+    margin-left: 14px;
+	margin-bottom:10px;
+}
+
+/*Events page starts here*/
+
+.view-id-events .col-lg-4 {
+    /* background: #eee; */
+    width: 94%;
+    margin: 6px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 2px 0px rgba(197, 197, 197, 0.89); */
+    background-color: white;
+    padding: 0px;
+    float: left;
+}
+
+/*.events-filters #edit-type-1-wrapper {
+    width: 30%;
+}*/
+
+.events-filters #edit-type-1-wrapper, 
+.events-filters #edit-field-event-date-value-wrapper { width: 35%; }
+
+.events-filters select#edit-field-event-date-value-value-month {
+    width: 100%;
+}
+
+.events-filters  .views-exposed-widget.views-submit-button {
+    width: 30%;
+}
+.video-sec, .img-sec, .donwl-sec {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.past-event-date {
+     
+    margin-left: 20px;
+}
+.event-img {
+    margin: 0 auto;
+    width: 80%;
+}
+/* Leadership page */
+.lead-wrap {
+ 
+    width: 47%;
+    overflow: hidden;
+    /* padding: 0px; */
+    float: left;
+    min-height: 302px;
+}
+
+.grosma-department-title h4 { font-size: 14px; }
+
+/* Knowledge bank page search*/
+div#edit-rec-tag-wrapper {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+	padding: 0;
+    margin-left: 0px;
+	
+}
+
+div#edit-type-wrapper>label { float: none; }
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-control { 
+	height: auto; 
+	padding: 5px 0;
+	margin-right: 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+   margin-top: 0;
+    margin-right: 0;
+    position: static;
+	float: none;
+	overflow: auto;
+    padding-top: 0;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .form-item-rec-tag.form-type-select {
+    margin: 10px 10px 0 0;
+    width: 40%;
+    float: left;
+}
+div#edit-rec-tag-wrapper > label {
+    float: left;
+    width: 20%;
+}
+
+p.views-field.views-field-title.blog-title,
+.grosma-pet .feature-3,
+.grosma-pet .btn-filled { margin-left: 0; }
+
+div#edit-type-wrapper {
+    float: none;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+label.option {
+    background-color: #333;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 3px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter input[type="submit"], 
+#views-exposed-form-knowledge-bank-views-kbfilter button[type="submit"],
+#views-exposed-form-knowledge-bank-views-kbfilter .btn { margin-top: 10px; }
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-type-bef-checkbox {
+    float: none;
+    margin: 0 8px 0 0;
+    margin-top: 0px;
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+p.form-div-1 {
+    font-size: 22px;
+ 
+    margin-bottom: 10px;
+    padding-bottom: 12px;
+}
+p.form-div-2 {
+    font-size: 41px;
+   
+    line-height: 37px;
+}
+.form-login-block .form-item-mail {
+    width: 100%;
+    float: left;
+    margin-right: 10px;
+}
+.form-login-block input[type="submit"], .form-login-block button[type="submit"] {
+    height: 50px;
+   
+    width: 100%;}
+span.sso-info {
+   
+    float: left;
+    width: 100%;
+   
+}
+
+.form-reg-block button[type="submit"] {
+    height: 50px;
+    line-height: 48px;
+    border: none;
+    background: #292929;
+    color: #fff;
+    width: 100%;
+
+}
+
+ 
+/* Events page starts here*/
+.event-image-gallery .field-item {
+    width: 45%;
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    margin: 0 10px;
+}
+
+/* Global presence css starts here*/
+#global-presence-page .glb-ser .col-md-4 {
+	width: 50%;
+    display: block;
+    margin: 15px auto;
+}
+
+.grosma-spotlight .block-title {
+	width: 200px; 
+	margin: 15px auto;
+}
+
+.spotlight-content-wrapper .spot-image-wrapper {
+	display: block;
+    width: 50%;
+    margin: 15px auto;
+}
+
+.spotlight-content-wrapper .spotlight-content {
+	display: block;
+    width: 100%;
+    margin: 20px auto 10px;
+}
+
+.location-slider {
+    height: auto; /* value changed from 532px to auto */
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+    /*background: #292929;*/
+}
+#myCarousel .carousel-caption {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /*background: #292929;*/
+    height: auto;
+    text-align: left;
+    padding: 13px;
+	min-height: 345px; /* value changed from 354px to 345px */
+}
+
+.americas-en #myCarousel .carousel-caption { min-height: 280px; }
+.americas-esp #myCarousel .carousel-caption,
+.americas-por #myCarousel .carousel-caption { min-height: 240px; }
+.europe-en #myCarousel .carousel-caption { min-height: 260px; }
+.asia-en #myCarousel .carousel-caption { min-height: 200px; }
+.asia-chn #myCarousel .carousel-caption { min-height: 180px; }
+
+.location-slider .carousel-caption p {
+    /*color: #fff;*/
+    text-shadow: none;
+    font-size: 15px;
+    line-height: 22px;
+}
+.location-slider h3 {
+    font-size: 24px;
+    text-shadow: none;
+    font-weight: 900;
+    font-family: roboto;
+    /*color: #fff;*/
+}
+
+.carousel-indicators li,
+.carousel-indicators .active { background-color: #000; }
+
+/* Logog Page starts here*/
+ul.style-guide-ul li {
+    display: inline;
+    color: #fff;
+    display: block;
+    float: none;
+    margin: 0 3px;
+    text-align: center;
+}
+ul.style-guide-ul li a {
+    background: red;
+    display: block;
+    background: #006699 url(/sites/all/themes/grosma_theme/images/lg-dn-ar.png) no-repeat 137px 10px;
+    padding: 7px;
+    width: 100%;
+    height: 37px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+ul.style-guide-ul li a:hover {
+    background: red;
+    display: block;
+    background:#333333 url(/sites/all/themes/grosma_theme/images/lg-dn-ar.png) no-repeat 137px 10px;
+    padding: 7px;
+    width: 100%;
+    height: 37px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+ul.style-guide-ul-gry li {
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    float: none;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+ul.style-guide-ul-gry li a {
+    background: #eee;
+    display: block;
+    width: 100%;
+    color: #000;
+    margin: 0 4px;
+    margin-bottom: 9px;
+    padding: 3px;
+    margin-top: 10px;
+}
+ul.style-guide-ul-gry {
+    margin-left: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Quote style */
+span.qt-title { display: block; }
+
+/*Search*/
+form#search-block-form {
+    margin-top: 36%;
+    width: 90%;
+    margin: 36% auto;
+}
+
+/* fooeter section social icons*/
+
+.social-block {
+    margin-top: 34px;
+    padding: 0 37px;
+}
+
+.social-block h6.block-title { text-align: center; }
+
+/* Mission vission page */
+#mission-vision-page .vission-section .row { margin-top: 0; }
+
+#mission-vision-page .vission-section .list { margin-bottom: 0; }
+
+#mission-vision-page .vission-section .list li {
+	width: 100%;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.location-slider .icon-prev,
+.location-slider .icon-next { display: none; }
+
+#myCarousel ol.carousel-indicators { 
+	display: block; 
+	bottom: -15px;
+}
+.awards_recognition_grid ul li
+{
+	    width: 46%;
+}
+.awards_recognition_grid {
+    width: 90%;
+    padding-top: 20px;
+}
+
+/* upcoming webinar start */
+#views-exposed-form-upcoming-webinars-block .views-widget-filter-field_event_date_value {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#views-exposed-form-upcoming-webinars-block .views-submit-button
+{width:100%;}
+.view-content .grid-webinar .up-title
+{min-height:auto;}
+.view-content .grid-webinar.col-md-6.col-sm-6.col-xs-12, .view-content .grid-webinar.col-xs-12.col-md-12.col-sm-12 {
+    width: 100%; 
+    float: left;
+    margin: 10px 0;
+}
+.view-content .grid-webinar .up-title, .view-content .grid-webinar.col-xs-12.col-md-12.col-sm-12 .up-title {
+    font-size: 22px; 
+}
+.webinar-web-wrp h1 {
+    font-size: 24px; 
+    margin-top: 15px;
+}
+.detail-webinar-wrp h2
+{font-size: 22px; }
+.web_reg_link a{margin-top:20px;text-align:center;}
+.web_reg_link .web_reg_link_btn, .web_reg_link .go_back_btn{float:none;}
+.past-webinars-grid h2{font-size:28px;}
+.speaker-wrp{margin-top:10px;}
+.kb-collateral-list h2 {margin:0;}
+.upcoming-webcast .view-content .grid-webinar.col-md-6.col-sm-6.col-xs-12 {
+    width: 100%;
+}
+.upcoming-webcast{padding:15px;}
+#webcasts-page .big-title{margin:0 15px;}
+/* upcoming webinar end */
+
+.similar-tags{height:80px;}
+
+}
+
+
+@media only screen and (max-width: 730px) {
+	/* New awards section*/
+	.industries-we-work-with ul li { width: 45%; }
+}
+
+
+@media only screen and (max-width: 640px) {
+	.field-type-text-with-summary .highlighted-heading {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.new-form-tabs .form-head {
+		line-height: 32px;
+		font-size: 27px;
+	}
+	.new-form-tabs #exTab1 .nav-pills li {
+		/* text-align: center; */
+		width: 100%;
+		/* margin-right: 20px; */
+		/* margin-bottom: 28px; */
+		float:left;
+		clear: none;
+	   
+	}
+	.soft-ser ul li span img {
+		float: left;
+	}
+	.soft-ser ul li a {
+		padding-bottom: 30px;
+		width: 100%;
+	}
+	.thankyou-header h2 {
+		font-size: 25px;
+		line-height: 28px;
+	}
+	.thanky-awards h3,.company-numbers h3, .service-thnk-pramo h3, .thk-locations h3, .related-papers-thankyou h3 {
+		font-size: 18px;
+		line-height: 28px;
+		width: 100%;
+	}
+	.related-papers-thankyou .kb-collateral-wrap.col-md-4 {
+		width: 100%;
+	}
+	.kb-collateral-wrap img
+	/* Advocacy page */
+	#advocacy-and-community-outreach-page .panel .panel-body .col-md-4.col-xs-4 { width: 100%; }
+  
+  /* Heading styles */
+  .grosma-mainhead{ font-size: 40px; }
+	
+  .aside-brouchure {
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+section#block-views-tweets-block h2 {
+    
+    margin-left: 20px;
+}
+  
+  /* footer.bg-dark .block-title {  
+    margin: 20px 80px;
+} */
+
+  /* Home Page Flip Box styles */
+ 
+  
+  /* Offering icons styles */
+  .aside-bar-left, 
+  .aside-bar-right { width: 80%; }
+  
+  .lead-wrap {
+ 
+    width: 47%;
+    overflow: hidden;
+    /* padding: 0px; */
+    float: left;
+}
+  /* cover values*/
+    .core-values .col-md-12 { width: 100%; }
+  
+  .core-values-img { width: 50%; }
+  
+  /* Knowledge bank page */
+  .kb-mind-blog .views-field-field-blog-image img { width: 100%; }
+  
+  /* Events filter atyling */
+  .events-filters #edit-type-1-wrapper { width: 100%; }
+  
+  .events-filters #edit-type-1-wrapper, 
+  .events-filters #edit-field-event-date-value-wrapper { padding: 0; }
+
+.events-filters #edit-field-event-date-value-wrapper,
+.events-filters #edit-field-event-date-value-wrapper div { width: 100%; }
+
+.events-filters  .views-exposed-widget.views-submit-button { 
+	width: 100%; 
+	margin-top: 20px; 
+}
+
+/* Women page style */
+#women-page .programs-for-women .list li, 
+#women-page .ideas-section .col-md-6  {
+	    width: 90%;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 1px solid #eee;
+    padding: 20px !important;
+}
+ .com-fet-wrap {
+	    width: 90%;
+    display: block;
+    text-align: center;
+    margin: 20px auto !important;
+    
+    border: 1px solid #eee;
+    padding: 20px !important;
+}
+.vp-quotes-section .quote {
+    margin-bottom: 0;
+    line-height: 30px;
+    padding: 10px 11px;
+    min-height: 165px;
+    font-weight: normal;
+    background: #f3f1f4;
+    font-family: 'Roboto Slab', serif;
+    color: #006699;
+    font-size: 20px;
+}
+.ideas-section .content-section .block-title { margin-top: 20px; }
+
+.ideas-section .img-section img { width: 100%; }
+
+.vp-quotes-section .col-xs-4 { 
+	width: 60%; 
+	margin: 0 auto 20px;
+	float: none;
+}
+
+/* Global presence page */
+#global-presence-page .glb-ser .col-md-4 { width: 80%; }
+
+.spotlight-content-wrapper .spot-image-wrapper { width: 60%; }
+  
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 569px) {
+.in-speaker-wrap{display:none;}
+	/* Contact Us css starts here*/	
+	div#dynamic-contact-us-wrapper {
+width: 100%!important;}
+.new-form-tabs li {
+	width: 100%;
+    min-height: 221px;
+}
+ 
+ div#dynamic-contact-us-wrapper .form-item-submitted-consent-submitted-status-1 label {
+    font-size: 11px;
+    line-height: 24px !important;
+}
+		.carousel-control {
+    top: 79%;
+    margin-left: 20px;
+}
+.colletral-text {
+    width: 100%;
+    height: 80%;
+	}
+  .colletral-text p {
+    font-size: 12px;
+    line-height: 22px;
+} 
+.views-field.views-field-field-video {
+   
+    display: none;
+}
+  /* Heading styles */
+  .grosma-mainhead{ font-size: 50px; }
+  
+  /* Vertical carousel styles 
+  .mobile-fill { height: 284px; } */
+  
+  /* Popular reads styles */
+  .top-read { display: none; }
+  
+  /* Home Page Slogan styles */
+  .slogan h1 {
+    font-size: 47px;
+    line-height: 48px;
+  }
+  
+  /* Home Page Flip Box styles */
+ 
+  /* Colletral thumbnail styles */
+  .colletral-type { margin-left: 0%; }
+    
+  h3.colletral-title {
+    font-size: 13px;
+    line-height: 19px;
+  }
+	
+  .colletral-thumb { margin-bottom: 69px; } 
+  
+  /* Testimonial styles */
+
+ .lead-quote {
+  
+    font-size: 22px;
+    line-height: 35px;
+}
+
+/* Events pages starts here*/
+.view-id-events .col-lg-4 {
+    /* background: #eee; */
+    width: 94%;
+    margin: 6px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 2px 0px rgba(197, 197, 197, 0.89); */
+    background-color: white;
+    padding: 0px;
+    float: left;
+}
+
+/* Knowledge bank page search*/
+div#edit-rec-tag-wrapper {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+   margin-top: 0;
+    margin-right: 0;
+    position: static;
+	float: none;
+	padding-top: 0;
+	overflow: auto;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .form-item-rec-tag.form-type-select {
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+div#edit-rec-tag-wrapper > label {
+    float: left;
+    width: 30%;
+}
+
+div#edit-type-wrapper {
+    float: left;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+label.option {
+    background-color: #333;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 3px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter input[type="submit"], 
+#views-exposed-form-knowledge-bank-views-kbfilter button[type="submit"] {
+	width: 50%;
+	margin-top: 10px;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .btn { margin-top: 10px; }
+
+#views-exposed-form-knowledge-bank-views-kbfilter .form-type-bef-checkbox {
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+
+
+
+
+/*Leadership page */
+
+.lead-wrap {
+    width: 95%;
+    overflow: hidden;
+    /* padding: 0px; */
+    float: left;
+ 
+    
+ 
+}
+.node-type-leadership .field-name-field-video video {
+    margin-left: 0;
+ 
+    width: 98%;
+}
+.glb-ser .col-md-4 {
+    margin-bottom: 33px;
+}
+  .lead-wrap img{width:100%;}
+
+}
+@media only screen and (min-width: 481px) and (max-width: 639px) {
+	 /* Tabs to accordian */
+	 ul.tabs li {
+		width: 115px;
+		padding: 0 5px;
+	 }
+	 
+	 ul.tabs h2 { font-size: 14px; }
+}
+
+
+@media only screen and (max-width: 530px) {
+
+	/* New awards section*/
+	.featured-clients-logo ul li { width: 46%; }
+	
+	/* Quote style */
+	.new-qoute-box p {
+    padding: 5px 20px;
+    margin-top: 25px;
+}
+
+}
+
+@media only screen and (max-width: 520px) {
+  
+  /* Offering icons styles */
+  .accordion-toggle {
+    width: 80%;
+    display: inline-block;
+    line-height: 26px;
+  }  
+  
+  /* Custom form styles*/
+  .new-contactus-icon-div > .col-md-12 {width: 48%;
+    text-align: center;
+    margin: 0 auto; }
+  
+  /* number block-position section */
+  .stats-fig { width: 100%; }
+
+}
+@media only screen and (max-width: 700px) {
+
+.text-box1 {
+    /* float: left; */
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    margin-left: 19px;
+}
+span.blu-row-img {
+    width: 19%;
+    /* display: block; */
+    /* text-align: center; */
+}
+
+span.blu-row-text {
+    width: 80%;
+    float: right;
+}
+span.blu-row-text {
+    line-height: 24px;
+}
+
+.blu-row ul li {
+    margin-bottom: 20px;
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+.in-speaker-wrap{display:none;}
+div#dynamic-contact-us-wrapper {
+    width: 100%;
+}
+div#dynamic-contact-us-wrapper .form-item-submitted-consent-submitted-status-1 .error.customjserror {
+    top: 18px;
+}
+div#dynamic-contact-us-wrapper .form-item-submitted-consent-submitted-status-1 input {
+    height: 15px !important;
+}
+div#dynamic-contact-us-wrapper .webform-client-form-wrapper {
+    padding: 10px;
+}
+div#dynamic-contact-us-wrapper .error {
+    font-size: 11px;
+}
+	.custom-map-functionality h2 {
+		font-size: 32px;
+	}
+	.homepage-awds .grosma-mainhead{
+		font-size: 23px;
+	}
+	div#dynamic-contact-us-wrapper .form-submit {
+		width: auto;
+	}
+div#bxslider_views_slideshow_main_tweets-block_1 {
+    height: 275px;	
+}
+/* Contact Us css starts here*/	
+.col-md-8.form-sec.pull-right,.col-md-4.form-btn.pull-right   {
+    float: none !important;
+}
+.new-form-tabs li {
+	width: 100%;
+    min-height: 170px;
+    margin-bottom: 50px;
+}
+div#dynamic-contact-us-wrapper .form-item-submitted-consent-submitted-status-1 label {
+    font-size: 9px;
+    line-height: 24px !important;
+}
+/* Assets banner*/
+.node-type-whitepapers .asset-image, .node-type-research-report .asset-image, .node-type-webcasts .asset-image, .node-type-case-study .asset-image, .page-node-115 .asset-image, .page-node-122 .asset-image, .page-node-127 .asset-image, .page-node-123 .asset-image {
+    text-align:center;
+}
+.node-type-whitepapers .asset-image img, .node-type-research-report .asset-image img, .node-type-webcasts .asset-image img, .node-type-case-study .asset-image img, .page-node-115 .asset-image img, .page-node-122 .asset-image img, .page-node-127 .asset-image img, .page-node-123 .asset-image img {
+    display: initial;
+    visibility: visible;
+}
+.node-type-whitepapers .top-banner-wrapper, .node-type-research-report .top-banner-wrapper, .node-type-webcasts .top-banner-wrapper , .node-type-case-study .top-banner-wrapper, .page-node-115 .top-banner-wrapper , .page-node-122 .top-banner-wrapper, .page-node-127 .top-banner-wrapper, .page-node-123 .top-banner-wrapper {
+    height: 35vh;
+    margin-bottom: 0px;
+	display:none;
+	
+}
+.node-type-whitepapers #inside-banner .background-image-holder, .node-type-research-report #inside-banner .background-image-holder, .node-type-webcasts #inside-banner .background-image-holder, .node-type-case-study #inside-banner .background-image-holder, .page-node-115 #inside-banner .background-image-holder, .page-node-122 #inside-banner .background-image-holder, .page-node-127 #inside-banner .background-image-holder, .page-node-123 #inside-banner .background-image-holder
+{
+	    background-image: none!important;
+		background-color:#006699;
+}
+.node-type-whitepapers  .asset-access-call-wrapper, .node-type-research-report  .asset-access-call-wrapper, .node-type-webcasts  .asset-access-call-wrapper, .node-type-case-study  .asset-access-call-wrapper, .page-node-115  .asset-access-call-wrapper, .page-node-122  .asset-access-call-wrapper, .page-node-127  .asset-access-call-wrapper, .page-node-123  .asset-access-call-wrapper {
+ display:none;
+}
+
+.node-type-whitepapers .asset-access-call-wrapper .call-icon, .node-type-research-report .asset-access-call-wrapper .call-icon, .node-type-case-study .asset-access-call-wrapper .call-icon, .page-node-115 .asset-access-call-wrapper .call-icon, .page-node-122 .asset-access-call-wrapper .call-icon, .page-node-123 .asset-access-call-wrapper .call-icon{
+        bottom: -71px;
+    left: 34%;
+    background-size: 69px;
+}
+
+.logged-in.page-node-127 .asset-access-call-wrapper.mobile-device, .logged-in.node-type-webcasts .asset-access-call-wrapper.mobile-device {
+    display: none;
+}
+.node-type-webcasts .asset-access-call-wrapper .call-icon 
+{display:none;}
+.node-type-webcasts .asset-access-call-wrapper.mobile-device
+{background:#292929;
+padding:15px;
+border-radius:10px;
+margin-bottom:0;
+}
+.asset-access-call-wrapper.mobile-device {
+      display: block;
+    top: -40px;
+    position: relative;
+    /* margin-top: -100px; */
+    margin-bottom: 44px;
+    margin-right: 20px;
+    margin-left: 0;
+    background: #eaeaea;
+    padding: 36px 40px;
+    
+}
+.call-icon
+{
+	background-size: 35px;
+    background-position: 56% 0%;
+}
+/*Assets banner ends here*/
+	
+span.brand-logo.white-logo {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+}
+.service-links {
+    padding-left: 15px;
+}
+
+/*Assets banner fixes*/
+.node-type-whitepapers .inside-banner-text h1, .node-type-research-report .inside-banner-text h1, .node-type-case-study .inside-banner-text h1, .node-type-webcasts .inside-banner-text h1 {
+    font-family: roboto;
+    font-size: 27px;
+    line-height: 28px;
+}
+.node-type-whitepapers .inside-banner-text h2, .node-type-research-report .inside-banner-text h2, .node-type-case-study .inside-banner-text h2, .node-type-webcasts .inside-banner-text h2 {
+    font-family: roboto;
+    font-size: 18px;
+    line-height: 26px;
+}
+ .node-type-whitepapers .inside-banner-text .col-md-6, .node-type-webcasts .inside-banner-text .col-md-6, .node-type-research-report .inside-banner-text .col-md-6, .node-type-case-study .inside-banner-text .col-md-6 {
+    width: 75%;
+}
+.call-icon {
+    
+    bottom: -38px;
+}
+
+ 
+
+/*Assets banner fixes*/
+ .webcast-thank video {
+    width: 90%;
+    margin: 0 1%;
+    margin-bottom: 20px;
+    background: #292929;
+    border: 10px solid #292929;
+    border-radius: 8px;
+    min-height: 265px;
+}
+.grosma-pet h2 {
+    letter-spacing: -2px;
+    font-size: 44px;
+}
+
+  .kb-collateral-list .kb-collateral-wrap {
+    margin-top: 0;
+    width: 100%;
+    float: none;
+    margin-left:0;
+}
+/* Cookie*/	
+#sliding-popup .popup-content #popup-text {
+    color: #fff;
+    float: left;
+    font-weight: normal;
+    margin: 5px 0 0;
+    max-width: 100%!important;
+    font-family: "Open Sans", Arial, sans-serif !important;
+}
+#sliding-popup .popup-content #popup-text h1, #sliding-popup .popup-content #popup-text h2, #sliding-popup .popup-content #popup-text h3, #sliding-popup .popup-content #popup-text p {
+    color: #fff;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    line-height: 1.4;
+    margin: 0 0 5px 0;
+}
+#sliding-popup.sliding-popup-bottom {
+    background: #000;
+    height: 140px !important;
+    padding: 10px;
+}
+
+.vission-section li {
+ margin-bottom: 50px;
+} 
+.node-type-newsroom .big-title {
+    padding: 0;
+    margin: 30px 0 20px;
+    font: 900 24px/28px 'Roboto', sans-serif;
+    letter-spacing: -2px;
+    margin-left: 10px;
+}
+.node-type-newsroom section.sub-nav-section {
+    padding: 0px;
+    height: 0;
+    z-index: 22;
+}
+.kb-mind-blog .block-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 30px;
+    margin-left: 14px;
+}
+.new-app-wrap-test p {
+    font-size: 28px;
+    line-height: 39px;
+}
+.new-app-wrap-btn li {
+    float: left;
+    margin-bottom: 20px;
+}
+.grosma-news-archive .block-title {
+ 
+    margin-left: 10px;
+}
+.no-banner {
+    margin-bottom: 0px;
+}
+.new-app-wrap-test span {
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 5px;
+}
+	.colletral-text {
+    width: 100%;
+    height: 78%;
+	}
+	
+.clients-per-industry h3 {
+    font-size: 22px;
+}
+
+.clients-per-industry.item-list ul li {
+	width: 100%;
+	height: 40px;
+}
+
+.testimonial-slider .carousel-indicators li {
+    width: 20px;
+	}
+.colletral-text p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.views-field.views-field-field-video {
+   
+    display: none;
+}
+.new-ceo-qoutes .new-qoute-box p {
+    padding: 5px 10px;
+}
+.lead-quote {
+   
+    padding: 36px 5px;
+}
+/* News section styles */
+.grosma-pet .text-center { min-height: 170px; }
+
+/* Flip ssection */
+.flip-section .cardCont {
+	width: 100%;
+	max-width: 330px;
+}
+
+/* Search page style */
+	.search-results .search-result-icon {
+		width: 100%;
+		margin: 0 auto 15px;
+	}
+
+	.search-results .search-snippet-info { width: 100%; }
+
+	#bundle-wrapper #edit-bundle .checkbox { width: 50%; }
+
+	.search-result span.icon {
+		margin: 0 auto;
+		display: block;
+	}
+	
+  /* Offering icons styles */
+	.offerings-1 > div > ul > li { width: 45%; }
+
+  .aside-bar-left, 
+  .aside-bar-right { width: 100%; }
+		
+  .inside-banner-text h2,
+  h1.big-title,
+  .testimonial-slider h2,
+  .grosma-main-head,
+  .footer-contact-us h2 {
+   font-size: 31px;
+    line-height: 40px;
+  }
+
+h1.big-title {
+  margin: 0px 0 10px 15px;
+  /*font-size: 45px;
+  line-height: 28px;*/
+
+}
+.slogan h1.big-title {
+ margin: 24px 0 10px 15px;
+} 
+.container.inside-banner-text {
+    top:30%;
+}
+  .Other-services h2 {
+    padding-top: 7px;
+    padding-left: 0;
+    margin-bottom: 35px;
+    position: relative;
+    color: #fff;
+    font: 900 35px/0.8 'Roboto', sans-serif;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+}
+  /* Global insudtry section */
+  .global-industry .col-sm-4 { width: 100%; }
+  
+  /* Testimonial styles */
+
+  .testimonial-slider .views-field-body { min-height: 500px; }
+  
+  .tabs { display: none; }
+	
+  .tab_drawer_heading {
+    padding: 5px 20px;
+ 
+    margin: 0;
+    display: block;
+    background-color: #666;
+    color: #fff;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+margin-bottom: 5px;
+font-size: 20px;
+    font-weight: 900;
+  }
+.tab_container {
+    border: none;
+}
+  .d_active {
+    background-color: #069;
+    color: #fff;
+  }
+  
+  /* Email-us section styles */
+  .email-us-listing .email-icons img { width: 100px; }
+  
+  .email-us-listing .email-content strong { 
+	font-size: 20px;
+    line-height: 28px;
+   }
+   
+   .email-us-listing .email-content a {
+		font-size: 16px;
+		line-height: 24px;
+   }
+   
+   /* Women page style */
+.vp-quotes-section .col-xs-4 { 
+	width: 100%; 
+	padding: 0;
+}
+
+.vp-quotes-section .col-xs-4 img { width: 100%; }
+
+/*Leadership page */
+
+.lead-wrap {
+    width: 95%;
+    overflow: hidden;
+    float: left;
+}
+
+.lead-icon {
+    width: 87px;
+    height: 86px;
+    margin: 0 auto;
+    padding: 18px;
+}
+
+/* New awards section*/
+	.industries-we-work-with ul li { 
+		width: 100%; 
+		margin: 10px 0;
+	}
+	
+	.client-industry-id span { margin-left: 10%; }
+	
+	.client-industry-id .biz-industries { margin-left: 10px; }
+	
+	/* Knowledge bank page search*/
+	.kbfilter-exposed.container {
+    padding: 20px;
+}
+div#edit-rec-tag-wrapper {
+    float: none;
+    margin: 5px auto;
+    width: 100%;
+    margin-left: 0px;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .btn {
+	padding: 0;
+	margin: 5px 0;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+      margin-top: 0;
+    margin-right: 0;
+    position: relative;
+    right: 0;
+    top: 0;
+	padding: 0;
+    width: 100%;
+}
+
+.adv-search.btn {
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-top: 18px;
+}
+
+#views-exposed-form-knowledge-bank-views-kbfilter input[type="submit"], #views-exposed-form-knowledge-bank-views-kbfilter button[type="submit"] {
+  height: 40px;
+    line-height: 31px;
+    border: 0 solid #006699;
+    background: #006699;
+    color: #fff;
+    width: 100%;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 0 !important;
+    margin: 0 auto;
+	padding: 0;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .form-item-rec-tag.form-type-select {
+    margin: 0;
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+div#edit-rec-tag-wrapper > label {
+   float: left;
+    width: 20%;
+}
+
+div#edit-type-wrapper {
+    float: left;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+label.option {
+    background-color: #333;
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 3px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    line-height: 17px;
+    padding: 10px 7px;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .form-type-bef-checkbox {
+    float: left;
+    margin: 0;
+    margin-top: 0px;
+    width: 100%;
+}
+div#edit-type-wrapper>label {
+    float: left;
+    line-height: 29px;
+    clear: both;
+    width: 100%;
+}
+.kb-collateral-wrap .new-border-box {
+    position: relative;
+    margin-bottom: 27px;
+    height: auto;
+    min-height: 330px;
+}
+
+.featured-latest .views-field-path .field-content a { display: block; }
+
+section#block-views-recommendations-block-2 {
+    padding: 0px;
+}
+section#block-views-knowledge-bank-views-block-1 {
+    padding: 0px;
+}
+/* Company page style */
+.com-fet-wrap { margin: 20px 0; }
+
+.com-fet-wrap h3.cont-title-1 {
+	display: block;
+    margin-left: 0;
+}
+
+ .new-contactus-icon-div > .col-md-12 {
+    width: 48%;
+    text-align: center;
+    margin: 15px auto;
+    padding: 0px 10px;
+   
+		
+}
+.new-contactus-icon-div .cont-title-1 {
+    font-size: 16px;
+    margin-top: 20px;
+    border: 2px solid #1e9dc6;
+    padding: 3px 24px;
+    margin-bottom: 17px;
+ 
+    text-align: center;
+    border-radius: 5px;
+	    width: 100%;
+}
+ 
+.new-common-form-wrap .pull-right {
+    float: none;
+}
+.new-contactus-icon-div p {
+    margin-bottom: 0;
+    line-height: 18px;
+    font-size: 12px;
+}
+/*Global presence */
+.spot-image-wrapper {
+    margin-bottom: 20px;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 37px;
+}
+
+.spotlight-content-wrapper .spot-image-wrapper { width: 90%; }
+
+.custom-map-global-presense .tab_container { border: none; }
+
+#global-presence-page .glb-ser .col-md-4 { width: 100%; }
+
+/* What we offer style */
+.service-links {
+    padding-left: 15px;
+}
+.Other-services a {
+    font-size: 12px;
+}
+
+.Other-services ul .fa {
+    /* padding: 6px 11px; */
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+    transform: rotate(0.001deg);
+    font-size: 17px;
+    width: 22px;
+    height: 22px;
+    padding-left: 7px;
+    line-height: 17px;
+}
+
+.Other-services ul li {
+    padding: 10px;
+    list-style: none;
+    font-size: 18px;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0px;
+    margin: 17px 0px;
+}
+
+/* Callout box style */
+.sd-close .grosma-sidebar-head,
+.grosma-sidebar-head { font-size: 20px; }
+
+
+/* events landing page*/
+
+
+.event-image-gallery .field-item {
+    width: 82%;
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    margin: 0 10px;
+}
+.video-sec, .img-sec, .donwl-sec {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.asset-access-call-wrapper {
+    /* position: absolute;
+    right: -45px;
+    top: 266px;
+    z-index: 1;
+    width: 200px; */
+}
+section#industries-section {
+    padding: 15px;
+}
+.carousel-control {
+    top: 79%;
+    margin-left: 20px;
+}
+.la-asset-title {
+    margin-top: 20px;
+}
+
+/* Contact-us page */
+.new-common-form-wrap .col-md-6 { padding: 0; }
+
+#myCarousel .carousel-caption { min-height: 520px; }
+
+.americas-en #myCarousel .carousel-caption { min-height: 390px; }
+.americas-esp #myCarousel .carousel-caption { min-height: 360px; }
+.americas-por #myCarousel .carousel-caption { min-height: 310px; }
+.europe-en #myCarousel .carousel-caption { min-height: 365px; }
+.asia-en #myCarousel .carousel-caption { min-height: 200px; }
+.asia-chn #myCarousel .carousel-caption { min-height: 190px; }
+
+/* #block-views-banner-home-mobile-banner { height: 65vh!important; } */
+
+}
+
+@media only screen and (max-width: 400px) {
+	.cul-icon {
+		width: 70px;
+		height: 70px;
+	}
+	
+	.cul-text { width: 64%; }
+	
+	.cul-text h3 {
+		font-size: 16px;
+    font-family: roboto;
+    font-weight: 900;
+    margin-top: 10px;
+    color: #fff;
+    margin-bottom: 0px;
+    margin-bottom: 10px;
+    line-height: 20px;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	#contact-us-page .generic-contact-us-forms .g-recaptcha > div { 
+		width: 260px !important; 
+		overflow-x: scroll;
+	}
+	
+	#contact-us-page .generic-contact-us-forms .g-recaptcha iframe { width: 305px !important; }
+	
+	.contact-us-wrapper .webform-client-form-wrapper button.webform-submit { width: 100%; }
+	
+	#block-views-banner-home-mobile-banner { height: 70vh!important; }
+}
+
+@media only screen and (max-width: 320px) {
+	
+	#block-views-banner-home-mobile-banner { height: 95vh!important; }
+	
+
+  /* Heading styles */
+  /* .grosma-mainhead{ font-size: 36px; } */
+  
+  /* Vertical carousel styles 
+  .mobile-fill { height: 284px; } */
+
+  .slider-text h3 {
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    font-size: 16px; 
+    line-height: 21px;
+  }   
+
+  .fullscreen2 { height: 600px; }
+  
+  /* Popular reads styles */
+  .top-read { display: none; }
+  
+  /* Home Page Slogan styles */
+  /* .slogan h1 {
+    font-size: 47px;
+    line-height: 48px;
+  } */
+	
+  h3.new-subhead {
+    width: 100%;
+    padding-top: 10px;
+    position: relative;
+    right: 0;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  /* Colletral thumbnail styles */
+  h3.colletral-title {
+    font-size: 13px;
+    line-height: 19px;
+  }  
+  
+  /* Testimonial styles */
+
+  
+  /* Knowledge bank */
+.asset-access-call-wrapper {
+    /* position: absolute;
+    right: -19%;
+    top: 140px;
+    z-index: 1;
+    border: 0px; */
+}
+
+/* Knowledge bank page search*/
+div#edit-rec-tag-wrapper {
+    float: none;
+    margin: 5px auto;
+    width: 100%;
+    margin-left: 0px;
+}
+/*#views-exposed-form-knowledge-bank-views-kbfilter .views-exposed-widget.views-submit-button {
+   margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    right: 0;
+    top: 7px;
+}
+#views-exposed-form-knowledge-bank-views-kbfilter .form-item-rec-tag.form-type-select {
+    margin: 0;
+    width: 54%;
+    float: left;
+    margin-right: 10px;
+}
+div#edit-rec-tag-wrapper > label {
+    float: left;
+    width: 11%;
+}*/
+
+div#edit-type-wrapper {
+    float: left;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+/*label.option {
+    background-color: #333;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 3px 10px;
+    color: #fff;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}*/
+#views-exposed-form-knowledge-bank-views-kbfilter .form-type-bef-checkbox {
+    float: left;
+    margin: 0;
+    margin-top: 0px;
+    width: 100%;
+}
+
+/*#views-exposed-form-knowledge-bank-views-kbfilter .btn {
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #292929;
+    padding: 0 10px;
+    background: #292929;
+    height: 29px;
+    min-width: 66px;
+    line-height: 29px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 0;
+    color: #ffffff;
+    text-align: center;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    margin-right: 8px;
+    margin-bottom: 0px;
+}*/
+.awards_recognition_grid ul li { 
+    min-height: 134px;
+}
+
+  
+}
+
+
+@media(min-width:979px) and (max-width:991px){
+	
+	.left-corona-block {
+    display: none;
+}
+	.related-papers-thankyou .kb-collateral-wrap.col-md-4{
+		width: 49%;
+		display: inline-block;
+	}	
+}
+@media (max-width: 767px) and (min-width: 641px){
+	.new-home-block {display:none;}	
+.in-speaker-wrap{display:none;}
+	 .new-form-tabs #exTab1 .nav-pills li {
+		/* text-align: center; */
+		width: 49%;
+		/* margin-right: 20px; */
+		/* margin-bottom: 28px; */
+		display: inline-block;
+		float: none;
+		clear: both;
+	   
+	}
+	.thankyou-header h2 {
+		line-height: 35px;
+		font-size: 27px;
+	}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+		div#bxslider_views_slideshow_main_tweets-block_1 {
+		height: 275px;
+	}
+	
+	
+}
+@media only screen and (min-width: 481px) and (max-width: 575px) {
+	.global-locations ul.tabs li {
+		width: 105px;
+	}
+}
